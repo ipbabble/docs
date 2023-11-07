@@ -15,8 +15,8 @@ aliases: /ansible-edge-gitops/
 pattern_logo: ansible-edge.png
 links:
   install: getting-started
-  help: https://groups.google.com/g/hybrid-cloud-patterns
-  bugs: https://github.com/hybrid-cloud-patterns/ansible-edge-gitops/issues
+  help: https://groups.google.com/g/validatedpatterns
+  bugs: https://github.com/validatedpatterns/ansible-edge-gitops/issues
 ci: aegitops
 ---
 

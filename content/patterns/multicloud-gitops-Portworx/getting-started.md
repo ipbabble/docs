@@ -10,7 +10,7 @@ aliases: /multicloud-gitops/getting-started/
 
 * An OpenShift cluster
   * To create an OpenShift cluster, go to the [Red Hat Hybrid Cloud console](https://console.redhat.com/).
-  * Select **OpenShift -> Clusters -> Create cluster**.
+  * Select **Services -> Containers -> Create cluster**.
   * The cluster must have a dynamic `StorageClass` to provision `PersistentVolumes`. See [sizing your cluster](../../multicloud-gitops/mcg-cluster-sizing).
 * Optional: A second OpenShift cluster for multicloud demonstration.
 * The git binary and podman. For details see [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Installing Podman](https://podman.io/getting-started/installation)
@@ -106,5 +106,5 @@ After the management hub is set up and works correctly, attach one or more manag
 For instructions on deploying the edge, refer to [Managed Cluster Sites](https://validatedpatterns.io/patterns/multicloud-gitops-portworx/managed-cluster/).
 
 >Contribute to this pattern:
-{{% button text="Help & Feedback" url="https://groups.google.com/g/hybrid-cloud-patterns" %}}
+{{% button text="Help & Feedback" url="https://groups.google.com/g/validatedpatterns" %}}
 {{% button text="Report Bugs" url="https://github.com/portworx/rh-multicloud-gitops-pxe/issues" color-class="btn-red" %}}

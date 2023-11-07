@@ -13,8 +13,8 @@ aliases: /multicloud-gitops-Portworx/
 pattern_logo: multicloud-gitops-Portworx.png
 links:
   install: getting-started
-  help: https://groups.google.com/g/hybrid-cloud-patterns
-  bugs: https://github.com/hybrid-cloud-patterns/medical-diagnosis/issues
+  help: https://groups.google.com/g/validatedpatterns
+  bugs: https://github.com/portworx/rh-multicloud-gitops-pxe/issues
 # ci: mcgitopspxe
 ---
 
